@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "251b4b91-6fb1-4e03-822f-4887a511a0b2",
+    "Name": "DheerSchemad7a32826Detail",
+    "ModifiedOnUtc": "\/Date(1673238624000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contact",
+    "DependsOn": []
+  }
+}

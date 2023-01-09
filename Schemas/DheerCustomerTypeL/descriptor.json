@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c12bee67-5dfd-43fb-910f-1078e2a3d3e1",
+    "Name": "DheerCustomerTypeL",
+    "ModifiedOnUtc": "\/Date(1672902531000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Customer Type",
+    "DependsOn": []
+  }
+}

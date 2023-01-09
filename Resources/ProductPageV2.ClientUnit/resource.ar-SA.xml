@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="السعر الأساسي" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="تقطيع" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="تغذية" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="الأسعار والتوافر" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Product information" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Product selection information" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="سمات" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="متابعة التغذية" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="أنت الآن متابع للتغذية: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="إلغاء متابعة التغذية" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="لقد قمت بايقاف التغذية التالية: {0}" />
+		</Items>
+	</Group>
+</Resources>

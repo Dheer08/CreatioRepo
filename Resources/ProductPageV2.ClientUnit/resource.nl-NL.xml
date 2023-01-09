@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="Basisprijs" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="Segmentatie" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="Prijzen en beschikbaarheid" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Product information" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Product selection information" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="Kenmerken" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Volg de feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="U volgt nu feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tijdlijn" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed niet meer volgen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="U bent gestopt met het volgen van de feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

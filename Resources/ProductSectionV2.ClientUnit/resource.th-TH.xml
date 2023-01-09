@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="ตั้งค่าแคตตาล็อคผลิตภัณฑ์" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="ตั้งค่าประเภทผลิตภัณฑ์และตัวกรอง" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="แสดงสิ่งที่ซ้ำ '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="แคตตาล็อก" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+		</Items>
+	</Group>
+</Resources>

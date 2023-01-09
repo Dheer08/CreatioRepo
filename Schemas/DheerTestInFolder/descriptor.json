@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7e2233f8-54f0-49dd-8aca-6294e0ad9cd6",
+    "Name": "DheerTestInFolder",
+    "ModifiedOnUtc": "\/Date(1672892642000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Test in Folder",
+    "DependsOn": []
+  }
+}

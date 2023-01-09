@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "6fcf1376-4b19-4f03-bd13-70654a43639b",
+    "Name": "ProductSectionV2",
+    "ModifiedOnUtc": "\/Date(1672958152000)\/",
+    "Parent": {
+      "UId": "f067c01f-590c-48b3-ae22-48e56534cc66",
+      "Name": "ProductSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Products\"",
+    "DependsOn": []
+  }
+}

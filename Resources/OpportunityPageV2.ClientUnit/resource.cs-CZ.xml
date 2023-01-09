@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="Zájem klienta" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Leady" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="předpovězená pravděpodobnost" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="Historie výher příležitostí na základě historických dat a aktuálních dat příležitosti. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot; &gt;Podrobnosti...&lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

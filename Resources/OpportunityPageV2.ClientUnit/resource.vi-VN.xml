@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="Nhu cầu khách hàng" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="xác suất dự đoán" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="Cơ hội giành được xác suất dựa trên các mẫu lịch sử và dữ liệu thời gian thực của cơ hội. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot;&gt; Chi tiết ... &lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

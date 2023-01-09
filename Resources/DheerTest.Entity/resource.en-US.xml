@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Testing" />
+			<Item Name="Columns.DheerAutoNumber.Caption" Value="Test Number" />
+			<Item Name="Columns.DheerContact.Caption" Value="Contact " />
+			<Item Name="Columns.DheerLead.Caption" Value="Lead" />
+			<Item Name="Columns.DheerName.Caption" Value="Name" />
+			<Item Name="Columns.DheerNotes.Caption" Value="Notes" />
+			<Item Name="Columns.DheerRequestNumber.Caption" Value="Request Number" />
+			<Item Name="Columns.DheerShowLead1.Caption" Value="ShowLead" />
+			<Item Name="Columns.DheerShowLeads.Caption" Value="ShowDetail2" />
+		</Items>
+	</Group>
+</Resources>

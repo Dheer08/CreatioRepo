@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "94f5a3b6-d769-43bd-a24b-e257ada5c47d",
+    "Name": "DheerTestInTag",
+    "ModifiedOnUtc": "\/Date(1672892656000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Test section record tag",
+    "DependsOn": []
+  }
+}

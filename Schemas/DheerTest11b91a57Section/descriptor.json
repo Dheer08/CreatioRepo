@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "feedc104-79f5-4d47-a629-8436f88b1dda",
+    "Name": "DheerTest11b91a57Section",
+    "ModifiedOnUtc": "\/Date(1672892601000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Testing\"",
+    "DependsOn": []
+  }
+}

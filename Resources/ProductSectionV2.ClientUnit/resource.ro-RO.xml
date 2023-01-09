@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Setati catalogul de produse" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Setati tipurile si filtrele de produs" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Catalog" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow feed" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Renuntati la urmarirea alimentarii" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="TestDetail1" />
+			<Item Name="Columns.DheerContact1.Caption" Value="Contact" />
+			<Item Name="Columns.DheerDheerTest.Caption" Value="Testing" />
+			<Item Name="Columns.DheerLead1.Caption" Value="Lead" />
+			<Item Name="Columns.DheerName.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

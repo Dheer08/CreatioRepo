@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "6627e0f0-31db-4af2-9afd-c19388f30845",
+    "Name": "OpportunityPageV2",
+    "ModifiedOnUtc": "\/Date(1673003827000)\/",
+    "Parent": {
+      "UId": "df249c13-df7a-48d2-b128-85183c4a0e10",
+      "Name": "OpportunityPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Opportunity edit page ",
+    "DependsOn": []
+  }
+}

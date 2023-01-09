@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Налаштувати каталог продуктів" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Налаштувати типи і фільтри продуктів" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Перейти до дублів розділу '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Звіт буде сформовано по всім записам розділу, без врахування фільтрів. Продовжити?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Каталог" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатись на оновлення стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатись від оновлень стрічки" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Configurer le catalogue produits" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Configurer les types  et les filtres de produits" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Afficher le doublon '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Le rapport sera généré pour tous les enregistrements de la section, sans filtres. Voulez-vous continuer?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Catalogue" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Suivre le feed" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ne plus suivre le feed" />
+		</Items>
+	</Group>
+</Resources>

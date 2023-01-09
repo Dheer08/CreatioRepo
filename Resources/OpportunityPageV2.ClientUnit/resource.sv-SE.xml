@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="Kundbehov" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="förutsedd sannolighet" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="Möjlighetsvinsts sannolikhet baseras på historiska mönster och realtidsdata för affärsmöjligheten. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot; &gt;Detaljer...&lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

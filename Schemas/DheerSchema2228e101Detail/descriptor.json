@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef3ef419-09b7-441f-ab1a-109af309eca0",
+    "Name": "DheerSchema2228e101Detail",
+    "ModifiedOnUtc": "\/Date(1673240850000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Test Detail 1\"",
+    "DependsOn": []
+  }
+}

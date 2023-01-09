@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="הגדר מוצר קטלוג" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="הגדר סוגי מוצרים ומסננים" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="הצג כפילות '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="הדו&quot;ח יופק עבור כל הרשומות במודול, בלי פילטרים. האם אתה מעוניין להמשיך?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="קטלוג" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+		</Items>
+	</Group>
+</Resources>

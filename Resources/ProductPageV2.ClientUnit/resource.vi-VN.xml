@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="Giá gốc" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="Phân khúc" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="Giá cả và khả năng" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Thông tin sản phẩm" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Thông tin lựa chọn sản phẩm" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="Các chức năng" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Bạn hiện đang theo dõi tin tức: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Mốc thời gian" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Bạn vừa dừng theo dõi tin tức: {0}" />
+		</Items>
+	</Group>
+</Resources>

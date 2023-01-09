@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="Базовая цена" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="Категоризация" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Caption" Value="PricesTabCaption" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="Цены и остатки" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Информация о продукте" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Информация для подбора продукта" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Caption" Value="SpecificationTabCaption" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="Характеристики" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+		</Items>
+	</Group>
+</Resources>

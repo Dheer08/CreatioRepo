@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="Тип потреби" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Ліди" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="предиктивна ймовірність" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="Імовірність закриття продажу, отримана на основі історичних закономірностей і даних в реальному часі. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot;&gt; Детальніше ... &lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="Тип потребности" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Лиды" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="предиктивная вероятность" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="Вероятность закрытия продажи, полученная на основе исторических закономерностей и данных в реальном времени. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot; &gt;Подробнее...&lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

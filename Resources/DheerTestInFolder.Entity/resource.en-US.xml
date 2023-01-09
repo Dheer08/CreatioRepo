@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Test in Folder" />
+			<Item Name="Columns.DheerTest.Caption" Value="Test" />
+			<Item Name="Columns.Folder.Caption" Value="Test folder" />
+		</Items>
+	</Group>
+</Resources>

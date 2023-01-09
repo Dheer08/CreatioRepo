@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Nastavit produktový katalog" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Nastavit typy produktů a filtry" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Zobrazit duplicitu '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Report bude vygenerován pro všechny záznamy v sekci, bez filtrů. Přejete si pokračovat?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Katalog" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sledovat kanál" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Přestat sledovat" />
+		</Items>
+	</Group>
+</Resources>

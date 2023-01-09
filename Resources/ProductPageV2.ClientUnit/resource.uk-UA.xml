@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="Базова ціна" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="Категоризація" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="Ціни і залишки" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Інформація про продукт" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Інформація для підбору продукту" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="Характеристики" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатися на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ви підписані на оновлення стрічки: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатися від оновлень стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ви відписані від оновлень стрічки: {0}" />
+		</Items>
+	</Group>
+</Resources>

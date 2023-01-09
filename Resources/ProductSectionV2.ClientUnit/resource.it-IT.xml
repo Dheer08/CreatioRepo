@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Imposta catalogo prodotti" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Imposta tipi di prodotto e filtri" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Catalogo" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Segui il feed" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Smetti di seguire il feed" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Ställ in produktkatalog" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Ställ in produkttyper och filter" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Visa dubblett '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Rapporten genereras för alla kort i sektionen, utan filter. Vill ni fortsätta?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Katalog" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ inlägg" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Sluta följa inlägg" />
+		</Items>
+	</Group>
+</Resources>

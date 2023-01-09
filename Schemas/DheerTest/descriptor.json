@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "948df0c6-98fd-49bf-98bb-e54c12f538d9",
+    "Name": "DheerTest",
+    "ModifiedOnUtc": "\/Date(1673241734000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Testing",
+    "DependsOn": []
+  }
+}

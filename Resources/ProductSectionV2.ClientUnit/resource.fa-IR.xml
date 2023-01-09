@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="تنظیم کاتالوگ محصول" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="تنظیم انواع و فیلترهای محصول" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="کاتالوگ" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+		</Items>
+	</Group>
+</Resources>

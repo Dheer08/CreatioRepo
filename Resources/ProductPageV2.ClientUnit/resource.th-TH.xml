@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="ราคาหลัก" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="การจัดกลุ่ม" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="ราคาและความพร้อมใช้" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Product information" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Product selection information" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="ลักษณะการปฏิบัติงาน" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="ตอนนี้คุณกำลังติดตามฟีด: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="คุณได้หยุดติดตามฟีด: {0}" />
+		</Items>
+	</Group>
+</Resources>

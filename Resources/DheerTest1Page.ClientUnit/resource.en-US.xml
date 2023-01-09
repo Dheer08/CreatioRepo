@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Testing&quot;" />
+			<Item Name="LocalizableStrings.DheerContactDetialDetailCaptionOnPage.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.DheerTestDetDetailCaptionOnPage.Value" Value="TestDetail1" />
+			<Item Name="LocalizableStrings.TabInputGroup5f93f3bbGroupCaption.Value" Value="Field Group" />
+			<Item Name="LocalizableStrings.TabInputTabCaption.Value" Value="Input" />
+			<Item Name="LocalizableStrings.TabOutputTabCaption.Value" Value="Output" />
+		</Items>
+	</Group>
+</Resources>

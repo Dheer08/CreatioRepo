@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="إعداد كتالوج المنتجات" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="ضبط انواع المنتجات وعوامل التصفية" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="فهرس" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="متابعة التغذية" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="إلغاء متابعة التغذية" />
+		</Items>
+	</Group>
+</Resources>

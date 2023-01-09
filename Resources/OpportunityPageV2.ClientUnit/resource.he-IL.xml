@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="צורך לקוח" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="הפניות" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="הסתברות חזויה" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="ההסתברות לזכייה על בסיס דפוסים היסטוריים ונתונים בזמן אמת של ההזדמנות. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot;&gt; פרטים ... &lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "154e33c6-528c-4e3f-b91d-903720b15471",
+    "Name": "OpportunitySectionV2",
+    "ModifiedOnUtc": "\/Date(1672983850000)\/",
+    "Parent": {
+      "UId": "28fa578b-e0d3-45f8-9e37-26194b760a83",
+      "Name": "OpportunitySectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Opportunities\"",
+    "DependsOn": []
+  }
+}

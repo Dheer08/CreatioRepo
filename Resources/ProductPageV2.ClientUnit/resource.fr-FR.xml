@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="Prix de base" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="Segmentation" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="Prix et disponibilité" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Info Produit" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Informations sur la sélection de produits" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="Fonctionnalités" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Suivre le feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Vous suivez désormais le feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Chronologie" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ne plus suivre le feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Vous avez arrêté de suivre le feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

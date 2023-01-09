@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="מחיר בסיס" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="פילוח" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="לוח הודעות" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="מחירים וזמינות" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Product information" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Product selection information" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="מאפיינים" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="אתה עוקב אחרי לוח ההודעות: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="הפסקת לעקוב אחרי לוח ההודעות: {0}" />
+		</Items>
+	</Group>
+</Resources>

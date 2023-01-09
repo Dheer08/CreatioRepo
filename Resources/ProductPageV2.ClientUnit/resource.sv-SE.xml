@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.BasePriceGroupCaption.Value" Value="Baspris" />
+			<Item Name="LocalizableStrings.CategoryGroupCaption.Value" Value="Segmentering" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Flöde" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Value" Value="Priser och tillgänglighet" />
+			<Item Name="LocalizableStrings.ProductInformation.Value" Value="Product information" />
+			<Item Name="LocalizableStrings.SelectionInformationTabCaption.Value" Value="Product selection information" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Value" Value="Funktioner" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ inlägg" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Du följer nu inlägg: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tidslinje" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Sluta följa inlägg" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Du har slutat följa inlägg: {0}" />
+		</Items>
+	</Group>
+</Resources>

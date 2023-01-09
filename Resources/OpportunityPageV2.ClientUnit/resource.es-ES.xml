@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="Necesidad de cliente" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Clientes potenciales" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="probabilidad predictiva" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="Oportunidad de ganar probabilidad basada en patrones históricos y datos en tiempo real de la oportunidad.&lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot; &gt;Detalles...&lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "455d16c5-cabb-54af-94d1-4b215a6f85d6",
+    "Name": "Developer",
+    "ModifiedOnUtc": "\/Date(1672883278000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

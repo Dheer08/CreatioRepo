@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Configurar catálogo de produtos" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Configurar tipos de produtos e filtros" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="O relatório será gerado para todos os registos da secção, sem filtros. Quer prosseguir?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Catálogo" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Opportunities&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Opportunities" />
+			<Item Name="LocalizableStrings.NewQuoteBtn.Value" Value="Push Me" />
+		</Items>
+	</Group>
+</Resources>

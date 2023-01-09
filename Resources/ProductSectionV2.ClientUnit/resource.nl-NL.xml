@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Instellen productcatalogus" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Opzetten productsoorten en filters" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Duplicaat '{0}' weergeven" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Catalogus" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Volg de feed" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed niet meer volgen" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.LeadTypeCaption.Value" Value="ความจำเป็นของลูกค้า" />
+			<Item Name="LocalizableStrings.OpportunityPageV28TabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityCaption.Value" Value="ความน่าจะเป็นที่ทำนาย" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetricHint.Value" Value="ความน่าจะเป็นของการชนะ Opportunity ขึ้นอยู่กับแบบแผนเชิงประวัติ และข้อมูลเรียล historical patterns and real-time data of the opportunity. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1874&quot; &gt;Details...&lt;/a&gt;" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ConfigureProductCatalogue.Value" Value="Thiết lập danh mục sản phẩm" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Caption" Value="ConfigureProductTypes" />
+			<Item Name="LocalizableStrings.ConfigureProductTypes.Value" Value="Thiết lập kiểu và bộ lọc sản phẩm" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Hiển thị trùng lặp '{0}'" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="Báo cáo sẽ được tạo cho tất cả các bản ghi trong phần, không có bộ lọc. Bạn có muốn tiếp tục?" />
+			<Item Name="LocalizableStrings.ProductCatalogueRootCaption.Value" Value="Danh mục" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+		</Items>
+	</Group>
+</Resources>
